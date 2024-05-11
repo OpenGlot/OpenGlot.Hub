@@ -3,6 +3,8 @@
 # Update package lists
 sudo yum update -y
 
+$ sudo yum install -y docker git
+
 # Install required packages
 sudo yum install -y docker
 
@@ -21,3 +23,5 @@ git clone https://github.com/TotzkePaul/OpenGlot.Hub.git
 
 # Change to the cloned repository directory
 cd OpenGlot.Hub
+
+git submodule update --init --recursive

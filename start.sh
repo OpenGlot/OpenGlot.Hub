@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Run Docker Compose
-docker-compose up -d
+sudo docker-compose up -d
