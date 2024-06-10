@@ -3,4 +3,4 @@
 	url = https://github.com/OpenGlot/OpenGlot.Web.git
 [submodule "api"]
 	path = api
-	url = https://github.com/TotzkePaul/OpenGlot.API.git
+	url = https://github.com/OpenGlot/OpenGlot.API.git
