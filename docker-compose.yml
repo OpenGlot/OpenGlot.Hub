@@ -25,10 +25,10 @@ services:
 
 
   db:
-    image: postgres:latest
-    volumes:
-      - postgres-data:/var/lib/postgresql/data
-      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: always
+    build: 
+      context: ./db
+      dockerfile: Dockerfile
     environment:
       - POSTGRES_DB=mydatabase
       - POSTGRES_USER=myuser
@@ -58,5 +58,3 @@ services:
     volumes:
       - ./frontend:/app
 
-volumes:
-  postgres-data:
