@@ -1,0 +1,1201 @@
+{
+  "id": 1,
+  "title": "Lesson 1 for 1",
+  "contentType": 3,
+  "createdAt": "2024-06-23T03:57:38.39276Z",
+  "moduleId": 1,
+  "module": null,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Question 1 for 1",
+      "questionType": 6,
+      "answer": "Answer 1",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 1,
+      "audio": {
+        "id": 1,
+        "urlKey": "audio_1.mp3",
+        "transcript": "Transcript 1",
+        "englishTranslation": "Translation 1",
+        "languageId": 1,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 1,
+      "image": {
+        "id": 1,
+        "urlKey": "image_1.jpg",
+        "description": "Image Description 1",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 1,
+          "text": "Option 1 for 1",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 1,
+          "question": null
+        },
+        {
+          "id": 2,
+          "text": "Option 2 for 1",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 1,
+          "question": null
+        },
+        {
+          "id": 3,
+          "text": "Option 3 for 1",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 1,
+          "question": null
+        },
+        {
+          "id": 4,
+          "text": "Option 4 for 1",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 1,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Question 2 for 1",
+      "questionType": 6,
+      "answer": "Answer 2",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 2,
+      "audio": {
+        "id": 2,
+        "urlKey": "audio_2.mp3",
+        "transcript": "Transcript 2",
+        "englishTranslation": "Translation 2",
+        "languageId": 2,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 2,
+      "image": {
+        "id": 2,
+        "urlKey": "image_2.jpg",
+        "description": "Image Description 2",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 5,
+          "text": "Option 1 for 2",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 2,
+          "question": null
+        },
+        {
+          "id": 6,
+          "text": "Option 2 for 2",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 2,
+          "question": null
+        },
+        {
+          "id": 7,
+          "text": "Option 3 for 2",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 2,
+          "question": null
+        },
+        {
+          "id": 8,
+          "text": "Option 4 for 2",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 2,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Question 3 for 1",
+      "questionType": 6,
+      "answer": "Answer 3",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 3,
+      "audio": {
+        "id": 3,
+        "urlKey": "audio_3.mp3",
+        "transcript": "Transcript 3",
+        "englishTranslation": "Translation 3",
+        "languageId": 3,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 3,
+      "image": {
+        "id": 3,
+        "urlKey": "image_3.jpg",
+        "description": "Image Description 3",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 9,
+          "text": "Option 1 for 3",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 3,
+          "question": null
+        },
+        {
+          "id": 10,
+          "text": "Option 2 for 3",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 3,
+          "question": null
+        },
+        {
+          "id": 11,
+          "text": "Option 3 for 3",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 3,
+          "question": null
+        },
+        {
+          "id": 12,
+          "text": "Option 4 for 3",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 3,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Question 4 for 1",
+      "questionType": 6,
+      "answer": "Answer 4",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 4,
+      "audio": {
+        "id": 4,
+        "urlKey": "audio_4.mp3",
+        "transcript": "Transcript 4",
+        "englishTranslation": "Translation 4",
+        "languageId": 4,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 4,
+      "image": {
+        "id": 4,
+        "urlKey": "image_4.jpg",
+        "description": "Image Description 4",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 13,
+          "text": "Option 1 for 4",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 4,
+          "question": null
+        },
+        {
+          "id": 14,
+          "text": "Option 2 for 4",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 4,
+          "question": null
+        },
+        {
+          "id": 15,
+          "text": "Option 3 for 4",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 4,
+          "question": null
+        },
+        {
+          "id": 16,
+          "text": "Option 4 for 4",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 4,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Question 5 for 1",
+      "questionType": 6,
+      "answer": "Answer 5",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 5,
+      "audio": {
+        "id": 5,
+        "urlKey": "audio_5.mp3",
+        "transcript": "Transcript 5",
+        "englishTranslation": "Translation 5",
+        "languageId": 5,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 5,
+      "image": {
+        "id": 5,
+        "urlKey": "image_5.jpg",
+        "description": "Image Description 5",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 17,
+          "text": "Option 1 for 5",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 5,
+          "question": null
+        },
+        {
+          "id": 18,
+          "text": "Option 2 for 5",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 5,
+          "question": null
+        },
+        {
+          "id": 19,
+          "text": "Option 3 for 5",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 5,
+          "question": null
+        },
+        {
+          "id": 20,
+          "text": "Option 4 for 5",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 5,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Question 6 for 1",
+      "questionType": 6,
+      "answer": "Answer 6",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 6,
+      "audio": {
+        "id": 6,
+        "urlKey": "audio_6.mp3",
+        "transcript": "Transcript 6",
+        "englishTranslation": "Translation 6",
+        "languageId": 6,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 6,
+      "image": {
+        "id": 6,
+        "urlKey": "image_6.jpg",
+        "description": "Image Description 6",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 21,
+          "text": "Option 1 for 6",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 6,
+          "question": null
+        },
+        {
+          "id": 22,
+          "text": "Option 2 for 6",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 6,
+          "question": null
+        },
+        {
+          "id": 23,
+          "text": "Option 3 for 6",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 6,
+          "question": null
+        },
+        {
+          "id": 24,
+          "text": "Option 4 for 6",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 6,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Question 7 for 1",
+      "questionType": 6,
+      "answer": "Answer 7",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 7,
+      "audio": {
+        "id": 7,
+        "urlKey": "audio_7.mp3",
+        "transcript": "Transcript 7",
+        "englishTranslation": "Translation 7",
+        "languageId": 7,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 7,
+      "image": {
+        "id": 7,
+        "urlKey": "image_7.jpg",
+        "description": "Image Description 7",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 25,
+          "text": "Option 1 for 7",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 7,
+          "question": null
+        },
+        {
+          "id": 26,
+          "text": "Option 2 for 7",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 7,
+          "question": null
+        },
+        {
+          "id": 27,
+          "text": "Option 3 for 7",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 7,
+          "question": null
+        },
+        {
+          "id": 28,
+          "text": "Option 4 for 7",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 7,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Question 8 for 1",
+      "questionType": 6,
+      "answer": "Answer 8",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 8,
+      "audio": {
+        "id": 8,
+        "urlKey": "audio_8.mp3",
+        "transcript": "Transcript 8",
+        "englishTranslation": "Translation 8",
+        "languageId": 8,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 8,
+      "image": {
+        "id": 8,
+        "urlKey": "image_8.jpg",
+        "description": "Image Description 8",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 29,
+          "text": "Option 1 for 8",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 8,
+          "question": null
+        },
+        {
+          "id": 30,
+          "text": "Option 2 for 8",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 8,
+          "question": null
+        },
+        {
+          "id": 31,
+          "text": "Option 3 for 8",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 8,
+          "question": null
+        },
+        {
+          "id": 32,
+          "text": "Option 4 for 8",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 8,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Question 9 for 1",
+      "questionType": 6,
+      "answer": "Answer 9",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 9,
+      "audio": {
+        "id": 9,
+        "urlKey": "audio_9.mp3",
+        "transcript": "Transcript 9",
+        "englishTranslation": "Translation 9",
+        "languageId": 9,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 9,
+      "image": {
+        "id": 9,
+        "urlKey": "image_9.jpg",
+        "description": "Image Description 9",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 33,
+          "text": "Option 1 for 9",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 9,
+          "question": null
+        },
+        {
+          "id": 34,
+          "text": "Option 2 for 9",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 9,
+          "question": null
+        },
+        {
+          "id": 35,
+          "text": "Option 3 for 9",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 9,
+          "question": null
+        },
+        {
+          "id": 36,
+          "text": "Option 4 for 9",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 9,
+          "question": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Question 10 for 1",
+      "questionType": 6,
+      "answer": "Answer 10",
+      "lessonId": 1,
+      "lesson": null,
+      "audioId": 10,
+      "audio": {
+        "id": 10,
+        "urlKey": "audio_10.mp3",
+        "transcript": "Transcript 10",
+        "englishTranslation": "Translation 10",
+        "languageId": 10,
+        "language": null,
+        "uploadedAt": "2024-06-23T03:57:38.399395Z"
+      },
+      "imageId": 10,
+      "image": {
+        "id": 10,
+        "urlKey": "image_10.jpg",
+        "description": "Image Description 10",
+        "uploadedAt": "2024-06-23T03:57:38.397669Z"
+      },
+      "options": [
+        {
+          "id": 37,
+          "text": "Option 1 for 10",
+          "audioId": 1,
+          "audio": {
+            "id": 1,
+            "urlKey": "audio_1.mp3",
+            "transcript": "Transcript 1",
+            "englishTranslation": "Translation 1",
+            "languageId": 1,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 1,
+          "image": {
+            "id": 1,
+            "urlKey": "image_1.jpg",
+            "description": "Image Description 1",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 10,
+          "question": null
+        },
+        {
+          "id": 38,
+          "text": "Option 2 for 10",
+          "audioId": 2,
+          "audio": {
+            "id": 2,
+            "urlKey": "audio_2.mp3",
+            "transcript": "Transcript 2",
+            "englishTranslation": "Translation 2",
+            "languageId": 2,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 2,
+          "image": {
+            "id": 2,
+            "urlKey": "image_2.jpg",
+            "description": "Image Description 2",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 10,
+          "question": null
+        },
+        {
+          "id": 39,
+          "text": "Option 3 for 10",
+          "audioId": 3,
+          "audio": {
+            "id": 3,
+            "urlKey": "audio_3.mp3",
+            "transcript": "Transcript 3",
+            "englishTranslation": "Translation 3",
+            "languageId": 3,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 3,
+          "image": {
+            "id": 3,
+            "urlKey": "image_3.jpg",
+            "description": "Image Description 3",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 10,
+          "question": null
+        },
+        {
+          "id": 40,
+          "text": "Option 4 for 10",
+          "audioId": 4,
+          "audio": {
+            "id": 4,
+            "urlKey": "audio_4.mp3",
+            "transcript": "Transcript 4",
+            "englishTranslation": "Translation 4",
+            "languageId": 4,
+            "language": null,
+            "uploadedAt": "2024-06-23T03:57:38.399395Z"
+          },
+          "imageId": 4,
+          "image": {
+            "id": 4,
+            "urlKey": "image_4.jpg",
+            "description": "Image Description 4",
+            "uploadedAt": "2024-06-23T03:57:38.397669Z"
+          },
+          "questionId": 10,
+          "question": null
+        }
+      ]
+    }
+  ],
+  "ratings": []
+}

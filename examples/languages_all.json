@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Chinese",
+    "code": "zh",
+    "description": "Chinese Language",
+    "courses": null
+  },
+  {
+    "id": 2,
+    "name": "Korean",
+    "code": "ko",
+    "description": "Korean Language",
+    "courses": null
+  },
+  {
+    "id": 3,
+    "name": "English",
+    "code": "en",
+    "description": "English Language",
+    "courses": null
+  },
+  {
+    "id": 4,
+    "name": "Japanese",
+    "code": "ja",
+    "description": "Japanese Language",
+    "courses": null
+  },
+  {
+    "id": 5,
+    "name": "Russian",
+    "code": "ru",
+    "description": "Russian Language",
+    "courses": null
+  },
+  {
+    "id": 6,
+    "name": "Spanish",
+    "code": "es",
+    "description": "Spanish Language",
+    "courses": null
+  },
+  {
+    "id": 7,
+    "name": "French",
+    "code": "fr",
+    "description": "French Language",
+    "courses": null
+  },
+  {
+    "id": 8,
+    "name": "German",
+    "code": "de",
+    "description": "German Language",
+    "courses": null
+  },
+  {
+    "id": 9,
+    "name": "Italian",
+    "code": "it",
+    "description": "Italian Language",
+    "courses": null
+  },
+  {
+    "id": 10,
+    "name": "Arabic",
+    "code": "ar",
+    "description": "Arabic Language",
+    "courses": null
+  }
+]

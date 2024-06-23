@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "title": "Module 1 for 1",
+  "description": "Module Description 1",
+  "courseId": 1,
+  "course": null,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Lesson 1 for 1",
+      "contentType": 3,
+      "createdAt": "2024-06-23T03:57:38.39276Z",
+      "moduleId": 1,
+      "module": null,
+      "questions": null,
+      "ratings": null
+    },
+    {
+      "id": 2,
+      "title": "Lesson 2 for 1",
+      "contentType": 3,
+      "createdAt": "2024-06-23T03:57:38.39276Z",
+      "moduleId": 1,
+      "module": null,
+      "questions": null,
+      "ratings": null
+    }
+  ],
+  "progresses": null,
+  "ratings": null
+}

@@ -1,0 +1,51 @@
+{
+  "userId": "f4d82458-40e1-7008-40e2-cd45634a3da8",
+  "username": "user1",
+  "email": "e@gmail.com",
+  "nativeLanguage": "English",
+  "targetLanguage": "Spanish",
+  "targetLanguageLevel": "Beginner",
+  "targetLanguage2": null,
+  "targetLanguageLevel2": null,
+  "targetLanguage3": null,
+  "targetLanguageLevel3": null,
+  "dateOfBirth": "2000-01-01T00:00:00Z",
+  "timeZone": "UTC",
+  "userRole": 0,
+  "ratings": null,
+  "progresses": [
+    {
+      "progressId": 1,
+      "userId": "f4d82458-40e1-7008-40e2-cd45634a3da8",
+      "user": null,
+      "courseId": 1,
+      "course": null,
+      "moduleId": 1,
+      "module": null,
+      "completionPercentage": 10,
+      "lastUpdated": "2024-06-23T03:57:38.435813Z"
+    }
+  ],
+  "badges": [
+    {
+      "badgeId": 1,
+      "userId": "f4d82458-40e1-7008-40e2-cd45634a3da8",
+      "user": null,
+      "badgeName": "Badge 1",
+      "awardedAt": "2024-06-23T03:57:38.435813Z"
+    }
+  ],
+  "notifications": [],
+  "flashcards": [
+    {
+      "flashcardId": 1,
+      "userId": "f4d82458-40e1-7008-40e2-cd45634a3da8",
+      "user": null,
+      "front": "Front 1",
+      "back": "Back 1",
+      "createdAt": "2024-06-23T03:57:38.435813Z"
+    }
+  ],
+  "userGeneratedContents": null,
+  "subscription": null
+}
