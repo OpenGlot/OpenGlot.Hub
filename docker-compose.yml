@@ -58,7 +58,10 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./frontend:/app
+      - ./frontend/app:/app  # Mount the app directory
+      - /app/node_modules  # Use a named volume for node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # Enable polling for hot reload
 
 volumes:
   db-data:
