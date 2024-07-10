@@ -47,6 +47,8 @@ services:
     build:
       context: ./api
       dockerfile: Dockerfile.Dev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
     volumes:
       - ./api:/app
     depends_on:
