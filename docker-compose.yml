@@ -9,12 +9,14 @@ services:
       - "443:443"
     volumes:
       - ./nginx:/etc/nginx/conf.d:ro
+      - ssl-certs:/etc/nginx/certs
     command: >
       sh -c "
         apk add --no-cache openssl
         mkdir -p /etc/nginx/certs
         if [ ! -f /etc/nginx/certs/localhost.crt ]; then
-          openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/nginx/certs/localhost.key -out /etc/nginx/certs/localhost.crt -subj '/CN=localhost';
+          openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/nginx/certs/localhost.key -out /etc/nginx/certs/localhost.crt -subj '/CN=localhost'-extensions EXT -config <( \
+            printf '[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost,IP:127.0.0.1\nkeyUsage=critical,digitalSignature,keyEncipherment\nextendedKeyUsage=serverAuth');
         fi;
         ls /etc/nginx/certs
         nginx -g 'daemon off;'
@@ -68,6 +70,7 @@ services:
       - CHOKIDAR_USEPOLLING=true  # Enable polling for hot reload
 
 volumes:
+  ssl-certs:
   db-data:
     name: db-data
     driver: local
