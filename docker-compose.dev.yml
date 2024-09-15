@@ -44,7 +44,7 @@ services:
   api:
     build:
       context: ./api
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.Dev
     depends_on:
       - db
     environment:
